@@ -1,0 +1,3 @@
+!!!use same region everywhere, use app name APP-PY everyehere
+create pvt ecr repo and update buildspec
+check everything to pvt git repo
